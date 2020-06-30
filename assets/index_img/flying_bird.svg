@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 43.5 27.5" style="enable-background:new 0 0 43.5 27.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#11034C;}
+	.st1{fill:#FFFFFF;}
+	#left_x5F_wing{
+		transform-origin: 24.1px 16.6px;
+		animation: flap_left 0.2s linear alternate infinite
+	}
+
+	@keyframes flap_left {
+		from{transform: rotateX(180deg)}to{transform: rotateX(-180deg)}
+	}
+
+	#right_x5F_wing {
+		fill: #f99d2a;
+		transform-origin: 24.1px 16.6px;
+		animation: flap_right 0.2s linear alternate infinite
+	}
+
+	@keyframes flap_right {
+		from{transform: rotateX(180deg)}to{transform: rotateX(-180deg)}
+	}
+</style>
+<g id="top_x5F_bird">
+	<path id="left_x5F_wing" class="st0" d="M28,11.9L12.3,0c0,0-2.1,10.3,3.1,13.3s8.7,3.3,8.7,3.3L28,11.9z"/>
+	<path class="st1" d="M10.7,20.7l19-10.6l3,5.5c0,0,1.9,5.1-4.8,8.7C21.1,27.9,10.7,20.7,10.7,20.7z"/>
+	<polygon class="st1" points="23.8,13.4 0,26.7 6.4,27.5 	"/>
+	<polygon class="st0" points="43.5,8.1 38.2,7.7 38.4,10.7 	"/>
+	<path class="st1" d="M39.2,10c-0.3,3.3-3.2,5.8-6.5,5.6c-3.3-0.3-5.8-3.2-5.5-6.5s3.2-5.8,6.5-5.6C37,3.8,39.4,6.7,39.2,10z"/>
+	<path class="st0" d="M36.1,8.1c0,0.5-0.5,0.9-1,0.9s-0.9-0.5-0.9-1s0.5-0.9,1-0.9C35.8,7.1,36.2,7.6,36.1,8.1z"/>
+	<path id="right_x5F_wing" class="st1" d="M27.8,11.7L4.1,4.3c0,0,1.7,9.3,8.1,12.5s13-0.6,13-0.6L27.8,11.7z"/>
+	<polygon class="st0" points="21.5,27.1 21,26.5 24.2,23.8 24.7,24.3 	"/>
+	<polygon class="st0" points="23.9,27.3 23.4,26.7 26.7,23.9 27.1,24.5 	"/>
+</g>
+</svg>
